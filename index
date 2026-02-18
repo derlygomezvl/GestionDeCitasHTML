@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mis Laboratorios</title>
+</head>
+<body>
+    <h1>Laboratorios Software 3</h1>
+    <ul>
+        <li><a href="./lab1-sw3/">Ir al Laboratorio 1</a></li>
+        <li><a href="./lab2-sw3/">Ir al Laboratorio 2</a></li>
+    </ul>
+</body>
+</html>
