@@ -1,0 +1,114 @@
+
+/* Ajuste del contenedor del encabezado */
+.grid-container-encabezado {
+  display: grid;
+  grid-template-columns: 10% 90%;
+  
+ }
+
+ /* Ajustes del contenedor del cuerpo de la pagina */
+.grid-container-citas{
+  display: grid;
+  grid-template-columns: 33.33% 33.33% 33%;
+  gap: 10px;
+  margin-right: 15px;
+ }
+
+/* Ajustes del titulo de la clinica */
+#titulo {
+  margin: auto;
+  font-size: 16px;
+}
+
+/* Ajustes del logo de la clinica */
+#logo_clinica {
+  width: 60%;
+  height: auto;
+}
+
+/* Ajustes del contenedor del logo de la clinica */
+.logo {
+  align-items: center;
+  justify-content: right;
+  margin: auto;
+}
+
+/* Clase general para el texto */
+.fuente{
+  font-size: 14px;
+  font-family: Arial;
+  line-height: 25px;
+  color: #131857;
+
+}
+
+/* Recuadro general para las citas e informacion*/
+.recuadro-citas {
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+}
+
+/*  color usando clases */
+.rosa {
+  text-align: right;
+  border: 1px solid #e04660;
+  background-color: #f8c8d0;
+}
+.verde {
+  text-align: center;
+  border: 1px solid #05cc26;
+  background-color: #c8f8d0;
+}
+.azul {
+  text-align: left;
+  border: 1px solid #192f9d;
+  background-color: #c8d0f8;
+}
+
+/* contenedor del recuadro de los medicos */
+.recuadro-medico {
+  text-align: center;
+  margin-top: 10px;
+}
+
+/* Ajustes de los iconos de los medicos */
+.foto-medico {
+  width: 140px;
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+
+}
+
+/* Ajustes del boton de agendar cita */
+.boton-cita {
+  color:aliceblue;
+  border: 1px solid #c8d0f8;
+  background-color: #192f9d;
+  border-radius: 6px;
+  padding: 10px 20px;
+}
+
+/*Ajuste del titulos (encabezado y footer)  */
+h3,h1 {
+  color: #e9933c;
+  text-align: center;
+  font-family: Arial;
+}
+
+
+.grid-container-footer {
+  display: grid;
+  grid-template-columns: 100%;
+  margin: 2px;
+  gap: 10px;
+  background-color: #fcf0e3;
+  border-radius: 10px;
+  border: #e9933c 1px solid;
+  gap: 10px;
+  padding: 5px;
+
+}
+
+
