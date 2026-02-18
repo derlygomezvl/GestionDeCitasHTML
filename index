@@ -7,8 +7,8 @@
 <body>
     <h1>Laboratorios Software 3</h1>
     <ul>
-        <li><a href="./lab1-sw3/">Ir al Laboratorio 1</a></li>
-        <li><a href="./lab2-sw3/">Ir al Laboratorio 2</a></li>
+        <li><a href="./Lab1-SW3/">Ir al Laboratorio 1</a></li>
+        <li><a href="./Lab2-SW3/">Ir al Laboratorio 2</a></li>
     </ul>
 </body>
 </html>
