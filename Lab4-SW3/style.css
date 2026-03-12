@@ -1,0 +1,80 @@
+ /* Estilo del encabezado */
+   .informacion-encabezado{
+    color: #192f9d;
+    background: rgb(207, 223, 238);
+    text-align: center;
+    padding: 40px 20px;
+    }
+
+    header h1{
+        font-size: 2.5rem;
+        font-weight: bold;
+        margin-bottom: 10px;
+
+    }
+
+    header h3{
+      font-size: 1.5rem;
+      font-weight: 300;
+      margin-bottom: 15px;
+    }
+
+    body {
+      overflow-x: hidden; /* Evita el desbordamiento horizontal */
+    }
+    .progress {
+      height: 15px; 
+    }
+    
+    .progress-bar {
+      border-radius: 0;
+    }
+
+    h5 {
+      margin-bottom: 0.5rem;
+    }
+
+    .profile-info {
+      text-align: center;
+    }
+
+    .profile-info h1 {
+      font-size: 2.5rem;
+      font-weight: bold;
+    }
+
+    .profile-info h3 {
+      font-size: 1.5rem;
+      font-weight: 300;
+      margin-bottom: 15px;
+    }
+
+    .social-icons a {
+      color: white;
+      margin: 0 10px;
+      font-size: 1.5rem;
+      transition: color 0.3s;
+    }
+
+    .social-icons a:hover {
+      color: #dcdcdc; 
+    }
+
+    /* Estilo para el contenedor de médicos */
+
+    .imagen-doctor {
+      object-fit: cover; /* Asegura que la imagen se recorte adecuadamente */
+      padding: 15px; /* Agrega espacio alrededor de la imagen */
+    }
+
+    /* COLOR DEL MUNU */
+    .bg-primary {
+      background-color: #192f9d !important;
+    }
+
+    /* FOOTER */
+    .color_footer {
+      background-color: #160a71 !important;
+      
+    }
+    
